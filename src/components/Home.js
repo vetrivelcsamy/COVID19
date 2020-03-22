@@ -20,7 +20,7 @@ const Home = () => {
 
   return (
     <div>
-      <h1>Hello world</h1>
+      <h1>covid19-live-tracker</h1>
        <Results coronavius={coronavius} />
     </div>
   );
